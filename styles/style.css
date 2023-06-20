@@ -1,5 +1,6 @@
 html {
     line-height: 200%;
+    padding: ;
 }
 
 h1 {
@@ -13,10 +14,31 @@ main{
 
 .zhu {
     font-size: em;
-    font-style: italic;
+    font-style: ;
 }
 
 footer{
     font-size: smaller;
     text-align: center;
+}
+
+
+
+.cat {
+    text-align: center;
+}
+
+
+
+td, th {
+    border: px solid black;
+}
+
+table {
+    margin: 20px 0 20px 0; 
+    line-height: 300%;
+    padding: 0;
+    border-collapse:collapse;
+
+    
 }
